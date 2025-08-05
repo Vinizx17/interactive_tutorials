@@ -73,6 +73,8 @@ If you have a use case you would like to show off or even a quick tutorial for a
 
  **Notebooks**:
 * [Criando e analisando dados com AQL](https://colab.research.google.com/github/arangodb/interactive_tutorials/blob/master/community_notebooks/BD_g01_ArangoDB.ipynb) - Submitted by [janiosl](https://github.com/janiosl)
+* [PageRank with MovieLens and ArangoDB](https://colab.research.google.com/github/Vinizx17/interactive_tutorials/blob/master/community_notebooks/Page_Rank_Movielens.ipynb) - Submitted by [Vinizx17](https://github.com/Vinizx17)
+
 
 ### Workshop Repositories
 The following is a list of workshops given that cover topics related to ArangoDB.
